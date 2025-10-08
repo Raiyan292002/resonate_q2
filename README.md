@@ -32,7 +32,7 @@ npm run preview   # serve the built files locally
 ```
 
 ## Deploy
-- 
+- Using Vercel: https://resonate-q2-virid.vercel.app/
 
 ## Notes
 - Data is cached in `sessionStorage` for 1 hour to reduce API calls.
